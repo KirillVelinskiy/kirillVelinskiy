@@ -1,7 +1,7 @@
 <h1 align=center>Hey 🤘, I'm Kirill</h1>
 
 <p>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE204D&random=false&height=30&lines=Python+Backend+developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE204D&random=false&height=30&lines=JavaScript+Backend+developer" alt="Typing SVG" /></a>
 </p>
 
 - 👨‍💻 All of my projects are available at [github.com/kirillVelinskiy](https://github.com/kirillVelinskiy)
