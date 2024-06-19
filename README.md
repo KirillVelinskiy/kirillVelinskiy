@@ -1,4 +1,4 @@
-- 👨‍💻 All of my projects are available at [github.com/kirillVelinskiy](https://github.com/kirillVelinskiy)
+- 👨‍💻 All of my projects are available at [github.com/kirillVelinskiy]([https://github.com/kirillVelinskiy](https://github.com/kirillVelinskiy?tab=repositories))
 
 - 💬 My telegram [t.me/kurohigara](https://t.me/kurohigara)
 
