@@ -22,7 +22,7 @@
 </p>
 
 <br>
-<h2>⚒️ Languages ⚒️</h2>
+<h2>⚒️ Tools ⚒️</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,html,css,)](https://skillicons.dev)
 
