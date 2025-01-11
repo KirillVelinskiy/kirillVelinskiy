@@ -24,7 +24,7 @@
 <br>
 <h2>⚒️ Tools ⚒️</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,linux,ubuntu,python,django,fastapi,flask,redis,selenium,postgresql,mongodb,html,css,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,linux,ubuntu,python,django,fastapi,flask,redis,selenium,postgresql,mongodb,html,css)](https://skillicons.dev)
 
 <br>
 <br>
