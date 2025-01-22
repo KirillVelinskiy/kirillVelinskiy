@@ -22,7 +22,7 @@
 <br>
 <h2>⚒️ Tools ⚒️</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,linux,ubuntu,python,django,fastapi,flask,redis,selenium,postgresql,mongodb,unity,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,linux,ubuntu,python,django,fastapi,flask,redis,selenium,postgresql,mongodb,html,css)](https://skillicons.dev)
 
 <br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kirillVelinskiy&theme=tokyonight-duo" alt="GitHub Streak" /></a>
