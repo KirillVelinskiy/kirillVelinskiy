@@ -25,6 +25,10 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,linux,ubuntu,python,django,fastapi,flask,redis,selenium,postgresql,mongodb,html,css)](https://skillicons.dev)
 
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kirillVelinskiy&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+  <div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=KirillVelinskiy&theme=tokyonight-duo" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
+  </div>
 
 
