@@ -20,7 +20,7 @@
 <br>
 <h2>⚒️ Tools ⚒️</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,linux,ubuntu,selenium,django,fastapi,redis,postgresql)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,python,linux,ubuntu,selenium,django,fastapi,redis,postgresql)
 
 <br>
   <div>
