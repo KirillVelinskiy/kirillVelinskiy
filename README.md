@@ -22,11 +22,4 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,python,linux,ubuntu,selenium,django,fastapi,flask,redis,postgresql)
 
-<br>
-  <div>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=KirillVelinskiy&theme=tokyonight" alt="GitHub Streak" style="margin-top: 20px;"/>
-    </a>
-  </div>
-
 
