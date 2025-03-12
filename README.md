@@ -1,5 +1,3 @@
-- 👨‍💻 All of my projects are available at [https://github.com/kirillVelinskiy?tab=repositories](https://github.com/kirillVelinskiy?tab=repositories)
-
 <p>
 <picture>
     <source
