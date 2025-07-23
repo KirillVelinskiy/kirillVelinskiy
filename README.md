@@ -18,6 +18,6 @@
 <br>
 <h2>⚒️ Tools ⚒️</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,docker,linux,ubuntu,redis,postgresql)
+[![My Skills](https://skillicons.dev/icons?i=python,postgresql,docker,kafka,rabbitmq,elasticsearch,linux,redis,ubuntu)](https://skillicons.dev)
 
 
