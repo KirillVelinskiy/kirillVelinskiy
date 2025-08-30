@@ -18,6 +18,6 @@
 <br>
 <h2>⚒️ Tools ⚒️</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgresql,docker,kafka,rabbitmq,linux,redis,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgresql,docker,rabbitmq,linux,redis,ubuntu)](https://skillicons.dev)
 
 
